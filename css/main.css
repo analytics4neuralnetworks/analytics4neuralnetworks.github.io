@@ -614,7 +614,9 @@ ul.sub-menu {
 }
 
 #home-slider .slider-name {
-    width: 25vw;
+    width: 70%;
+    height: auto;
+    display: block;
     float: right;
     margin-right: -22px;
     margin-top: -15px;
