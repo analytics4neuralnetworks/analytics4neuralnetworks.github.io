@@ -618,8 +618,10 @@ ul.sub-menu {
     height: auto;
     display: block;
     float: right;
-    margin-right: -22px;
-    margin-top: -15px;
+    margin-top: 35px;
+    margin-right: 55px;
+    margin-bottom: 25px;
+    margin-left: 25px;
 }
 
 .animate-in .slider-name {
